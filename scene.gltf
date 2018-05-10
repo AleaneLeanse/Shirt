@@ -858,10 +858,10 @@
   ],
   "images": [
     {
-      "uri": "textures/Shirt00_1Button_FRONT_baseColor.jpg"
+      "uri": "Shirt00_1Button_FRONT_baseColor.jpg"
     },
     {
-      "uri": "textures/Shirt00_1Material4782_baseColor.png"
+      "uri": "Shirt00_1Material4782_baseColor.png"
     }
   ],
   "materials": [
